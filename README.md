@@ -8,13 +8,14 @@ Tracking my journey solving DSA problems on LeetCode, GFG, and more.
 
 - [x] Arrays
 - [ ] Linked Lists
+- [ ] dp
+- [ ] greedy
 - [ ] Trees
 - [ ] Graphs
 
 ## 💡 Platforms
 
 - [x] LeetCode
-- [ ] GeeksForGeeks
 - [ ] Codeforces
 
 Stay tuned as I keep solving more! 🚀
